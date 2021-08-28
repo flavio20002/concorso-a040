@@ -2,7 +2,13 @@ site_name: Appunti Concorso A040
 
 nav:
   - Home: 'index.md'
-  - 1. Elettrotecnica: '1_elettrotecnica_generale.md'
+  - Programma specifico A040:
+    - 1. Elettrotecnica generale: '1_elettrotecnica_generale.md'
+  - Inglese:
+    - Home: 'index.md'
+  - Informatica:
+    - Home: 'index.md'
+
     
 markdown_extensions:
   - pymdownx.arithmatex:
@@ -13,4 +19,8 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js      
 
-theme: readthedocs
+theme:
+  name: material
+  language: it
+  features:
+    - navigation.tabs
