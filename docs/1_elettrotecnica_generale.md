@@ -61,7 +61,9 @@ dove $Φ_i$ è il flusso iniziale,$Φ_f$ è il flusso finale, $\overline{B}$ è 
 | Legge di Gauss      | $\nabla \cdot \mathbf E = \frac {\rho} {\epsilon_0}$       |
 | Legge di Farady   | $\nabla \times \mathbf E = - \frac{\partial \mathbf B}{\partial t}$ |
 | Legge di Gauss   | $\nabla \cdot \mathbf B = 0$ |
-| Legge di Ampèere-Maxwell   | $\nabla \times \mathbf B = \mu_0 \left(j + \epsilon_0 \frac{\partial \mathbf E}{\partial t} \right) $ |
+| Legge di Ampèere-Maxwell   | $\nabla \times \mathbf B=\left(j + \epsilon_0 \frac{\partial \mathbf E}{\partial t} \right)$ |
+
+
 
 ### Proprietà di Gradiente, Divergenza e Rotore
 
