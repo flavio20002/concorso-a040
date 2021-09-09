@@ -183,11 +183,10 @@ $$
 
 ## Leggi, principi e metodi per la risoluzione delle reti elettriche in regime continuo e sinusoidale
 
-* L'unità di misura della potenza reattiva è il VAR, ovvero Volt Amper Reattivi.
-
 ## Sistemi monofase e trifase
-The second paragraph text
 
 ## Bilancio energetico nelle reti elettriche
+
+* L'unità di misura della potenza reattiva è il VAR, ovvero Volt Amper Reattivi.
 
 ## Analisi dei circuiti elettrici in regime variabile

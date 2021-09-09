@@ -1,9 +1,7 @@
 Install:
 
 ```
-pip install mkdocs
-pip install mkdocs-material
-pip install pymdown-extensions
+pip install -r requirements.txt
 ```
 
 Serve:
