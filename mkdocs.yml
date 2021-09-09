@@ -3,7 +3,19 @@ site_name: Appunti Concorso A040
 nav:
   - Home: 'index.md'
   - Programma specifico A040:
-    - 1. Elettrotecnica generale: 'programma_a040/1_elettrotecnica_generale.md'
+    - Elettrotecnica generale: 'programma_a040/1_elettrotecnica_generale.md'
+    - Elettronica digitale: 'programma_a040/2_elettronica_digitale.md'
+    - Dispositivi e Circuiti Elettronici discreti e Integrati: 'programma_a040/3_dispositivi_e_circuiti_elettronici_discreti_e_integrati.md'
+    - Fondamenti di elettronica analogica: 'programma_a040/4_fondamenti_di_elettronica_analogica.md'
+    - Elettronica Industriale e di Potenza: 'programma_a040/5_elettronica_industriale_e_di_potenza.md'
+    - Generazione, acquisizione, elaborazione e distribuzione dei segnali: 'programma_a040/6_generazione,acquisizione,elaborazione_e_distribuzione_dei_segnali.md'
+    - Elementi di informatica: 'programma_a040/7_elementi_di_informatica.md'
+    - Elementi di telecomunicazioni e trasmissione delle informazioni: 'programma_a040/8_elementi_di_telecomunicazioni_e_trasmissione_delle_informazioni.md'
+    - Elementi di Sistemi automatici e di Automazione Industriale: 'programma_a040/9_elementi_di_sistemi_automatici_e_di_automazione_industriale.md'
+    - Principi di Misure Elettriche: 'programma_a040/10_principi_di_misure_elettriche.md'
+    - Macchine e Impianti Elettrici: 'programma_a040/11_macchine_e_impianti_elettrici.md'
+    - I progetti tecnici: 'programma_a040/12_i_progetti_tecnici.md'
+    - Sicurezza e igiene del lavoro: 'programma_a040/13_sicurezza_e_igiene_del_lavoro.md'
   - Inglese:
     - Home: 'inglese/index.md'
   - Informatica:
