@@ -122,7 +122,7 @@ $$
 
 ### Resistore
 
-1° Legge di Ohm.
+* 1° Legge di Ohm.
 
 $$
 R=\frac{V}{I}\quad[\Omega]
@@ -132,54 +132,80 @@ $$
 G=\frac{I}{V}\quad[\text{S}]
 $$
 
-2° Legge di Ohm. La resisitività $\rho$ ha come unità di misura $\Omega \cdot \text{m}$
+* 2° Legge di Ohm. La resisitività $\rho$ ha come unità di misura $\Omega \cdot \text{m}$
 
 $$
 R=\rho \frac{l}{S}
 $$
 
-La resistenza equivalente di una serie di resitori vale:
+* La resistenza equivalente di una serie di resitori vale:
 
 $$
 R_s = R_1 + R_2 + \ldots + R_n
 $$
 
-La resistenza equivalente del parallelo di più resistori vale:
+* La resistenza equivalente del parallelo di più resistori vale:
 
 $$
 \frac {1}{R_p} = \frac {1}{R_1} + \frac {1}{R_2} + \ldots + \frac {1}{R_n}
 $$
 
+* Circuito equivalente del resistore reale:
+
+<div align="center">
+  <img src="../../images/real_resistor.png" alt="Resistore reale"/>
+</div>
+
 
 ### Condensatore
 
-La capacità equivalente di una serie di condensatori vale:
+* La carica accumulata sulle armature di un condensatore è pari a:
+
+$$
+ q = CV
+$$
+
+* La capacità equivalente di una serie di condensatori vale:
 
 $$
 \frac {1}{C_s} = \frac {1}{C_1} + \frac {1}{C_2} + \ldots + \frac {1}{C_n}
 $$
 
-La capacità equivalente del parallelo di più condensatori vale:
+* La capacità equivalente del parallelo di più condensatori vale:
 
 $$
 C_p = C_1 + C_2 + \ldots + C_n
 $$
 
+* La capacità di un condensatore cilindrico vale:
+$$
+C = 2 \pi  \epsilon_0 \epsilon_R\frac{l}{\text{ln} (r_E/r_I) }
+$$
+l è la lunghezza $r_I$ ed $r_E$ i raggi interni ed esterni.
+<br />
+* La capacità di un condensatore piano costituito da due piastre di area $A$ e distanza $d$ vale:
+
+$$
+C = \epsilon_0 \epsilon_R \frac{A}{d}
+$$
+
+* Un condensatore ideale alimentato in corrente continua è a regime un circuito aperto mentre un condensatore reale si comporta come una resistenza di grande dimensione.
 
 ### Induttore
 
-L'induttanza equivalente di una serie di induttori vale:
+* L'induttanza equivalente di una serie di induttori vale:
 
 $$
 L_s = L_1 + L_2 + \ldots + L_n
 $$
 
-L'induttanza  equivalente del parallelo di più induttori vale:
+* L'induttanza  equivalente del parallelo di più induttori vale:
 
 $$
 \frac {1}{L_p} = \frac {1}{L_1} + \frac {1}{L_2} + \ldots + \frac {1}{L_n}
 $$
 
+* Un induttore ideale alimentato in corrente continua è a regime un cortocircuito mentre un induttore reale si comporta come una resistenza.
 
 ## Leggi, principi e metodi per la risoluzione delle reti elettriche in regime continuo e sinusoidale
 
