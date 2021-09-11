@@ -1,6 +1,6 @@
 Site:
 
-[Live Web Site on Git Hub Pages]([https://link](https://flavio20002.github.io/concorso-a040/))
+[Live Web Site on Git Hub Pages](https://flavio20002.github.io/concorso-a040/)
 
 
 Install:
