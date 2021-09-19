@@ -3,6 +3,7 @@
 ## Testi:
 
 * Mazzoldi Nigro Voci - Elementi di fisica: elettromagnetismo
+* Fabricatore - Elettrotecnica e applicazioni
 
 ## Campo elettrico, magnetico ed elettromagnetico
 
@@ -165,6 +166,13 @@ $$
  q = CV
 $$
 
+L'energia elettrostatica del condensatore di capacità $C$, carico con carica $q$ e differenza di potenziale $V$ vale:
+
+$$
+U_e = \frac {1}{2} CV^2 = \frac {1}{2} \frac {q^2}{C}  = \frac {1}{2} qV
+$$
+
+
 * La capacità equivalente di una serie di condensatori vale:
 
 $$
@@ -193,6 +201,12 @@ $$
 
 ### Induttore
 
+L'energia immagazzinata in un induttore di induttanza $L$ vale:
+
+$$
+U_e = \frac {1}{2} LI^2
+$$
+
 * L'induttanza equivalente di una serie di induttori vale:
 
 $$
@@ -207,12 +221,75 @@ $$
 
 * Un induttore ideale alimentato in corrente continua è a regime un cortocircuito mentre un induttore reale si comporta come una resistenza.
 
+### Generatori di tensione
+
+* Due generatori di tensione non possono mai essere collegati in parallelo, perchè imporrebbe alle tensioni di essere identiche.
+
+### Generatori di corrente
+
+* Due generatori di corrente non possono mai essere collegati in serie, perchè imporrebbe alle correnti di essere identiche.
+
 ## Leggi, principi e metodi per la risoluzione delle reti elettriche in regime continuo e sinusoidale
+
+### Le leggi di Kirchoff
+
+ * I° legge: la somma delle correnti entranti in un nodo di rete elettrica è uguale alla somma delle correnti uscenti. É equivalente al principio della conservazione della carica.
+ * II° legge: la somma algebrica delle tensioni in maglia di una rete elettrica è uguale a zero. É una forma di conservazione dell'energia.
+
+Per risolvere una rete elettrica con $r$ rami e $n$ nodi, si deve scrivere un sistema di r equazioni composto da:
+
+* $n – 1$ equazioni con il la I° legge
+* $r – (n – 1)$ con il II° legge
+
+Se in una rete elettrica siano presenti più di un generatore (di corrente o di tensione) si sfrutta il principio di sovrapposizione degli effetti. Questo afferma che in una rete lineare in cui sono presenti più generatori, le correnti nei singoli rami possono essere ottenute sommando algebricamente le correnti risultanti dai singoli generatori. I generatori di tesnione esclusi sono sostiuiti da un cortocircuito, mente i generatori di corrente esclusi con dei circuiti aperti.
+
+### Partitore di tensione
+
+<div align="center">
+  <img src="../../images/voltage_divider.png" alt="Partitore di tensione"/>
+</div>
+
+$$
+V_o = V_i\frac{R_2}{R1+R2}
+$$
+
+### Partitore di corrente
+
+<div align="center">
+  <img src="../../images/current_divider.png" alt="Partitore di corrente"/>
+</div>
+
+$$
+I_1 = I_{in}\frac{R_2}{R1+R2}
+$$
+
+
+### Generatore equivalente di Thevenin
+
+Il Teorema di Thevenin afferma che è possibile sostituire una rete attiva lineare con un generatore di tensione avente come valore la tensione a vuoto della rete, e come resistenza interna serie quella vista dai due morsetti, sostituendo i generatori di tensione con dei corto circuiti ed i generatori di corrente con dei circuiti aperti.
+
+
+### Generatore equivalente di Norton
+
+Il Teorema di Norton afferma che è possibile sostituire una rete attiva lineare con un generatore di corrente avente come valore quello ottenuto cortocircuitando i morsetti, e come resistenza interna parallelo quella vista dai due morsetti, sostituendo i generatori di tensione con dei corto circuiti ed i generatori di corrente con dei circuiti aperti.
+
 
 ## Sistemi monofase e trifase
 
 ## Bilancio energetico nelle reti elettriche
 
 * L'unità di misura della potenza reattiva è il VAR, ovvero Volt Amper Reattivi.
+
+* La potenza elettrica dissipata per effetto Joule in un resistore vale:
+
+$$
+  P = RI^2
+$$
+
+* L'energia elettrica dissipata per effetto Joule in un resistore vale:
+
+$$
+  W = RI^2\Delta t 
+$$
 
 ## Analisi dei circuiti elettrici in regime variabile
