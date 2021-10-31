@@ -17,6 +17,12 @@ $$
 
 ### Campo elettrico
 
+L' intensità della forza esercitata tra due cariche puntiformi q1e q2 vale:
+
+$$
+F={\frac {1}{4\pi \epsilon_0}} \frac {q_1 q_2}{r^2}
+$$
+
 Il potenziale elettrostatico generato da una carica puntiforme $q$ in un punto a distanza $r$ vale:
 
 $$
@@ -199,6 +205,12 @@ $$
 
 * Un condensatore ideale alimentato in corrente continua è a regime un circuito aperto mentre un condensatore reale si comporta come una resistenza di grande dimensione.
 
+* La corrente che attraversa un condensatore vale:
+
+$$
+I_C = C \frac{dV_C}{dt}
+$$
+
 ### Induttore
 
 L'energia immagazzinata in un induttore di induttanza $L$ vale:
@@ -220,6 +232,13 @@ $$
 $$
 
 * Un induttore ideale alimentato in corrente continua è a regime un cortocircuito mentre un induttore reale si comporta come una resistenza.
+
+* La tensione ai capi di un induttore vale:
+
+$$
+V_L = L \frac{dI_L}{dt}
+$$
+
 
 ### Generatori di tensione
 
@@ -293,3 +312,15 @@ $$
 $$
 
 ## Analisi dei circuiti elettrici in regime variabile
+
+* La costante di tempo di un circuito RC vale:
+
+$$
+  \tau = RC
+$$
+
+* La costante di tempo di un circuito RL vale:
+
+$$
+  \tau = \frac{L}{R}
+$$
