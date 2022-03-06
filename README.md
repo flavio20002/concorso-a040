@@ -6,13 +6,13 @@ Site:
 Install:
 
 ```
-pip install -r requirements.txt
+pipenv install
 ```
 
 Serve:
 
 ```
-mkdocs serve
+pipenv run mkdocs serve
 ```
 
 Build:

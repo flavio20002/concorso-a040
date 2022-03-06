@@ -1,6 +1,6 @@
 ## Testi:
 
-* Gaetano Conte - Tecnologie e progettazione di sistemi elettrici ed elettronici 2 modulo E
+* Gaetano Conte - Tecnologie e progettazione di sistemi elettrici ed elettronici Volume 2 (Modulo E)
 
 # Sicurezza e igiene del lavoro
 
