@@ -10,8 +10,12 @@
 
 ## Produzione, trasporto, distribuzione e utilizzazione dell’Energia elettrica
 
+* Gaetano Conte - Tecnologie e progettazione di sistemi elettrici ed elettronici Volume 3 (Modulo D, E)
+
 ## Progettazione di impianti elettrici di bassa e alta potenza
 
 ## Rifasamento
 
 ## Elementi di domotica
+
+* Gaetano Conte - Tecnologie e progettazione di sistemi elettrici ed elettronici Volume 2 (Modulo B)

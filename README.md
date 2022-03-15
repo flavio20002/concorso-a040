@@ -18,5 +18,5 @@ pipenv run mkdocs serve
 Build:
 
 ```
-mkdocs build
+pipenv run mkdocs build
 ```

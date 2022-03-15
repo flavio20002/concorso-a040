@@ -2,13 +2,22 @@
 
 ## Interruttori di potenza a semiconduttore
 
+* Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 3 (Modulo A1)
+
 ## Raddrizzatori a frequenza di linea controllati e non
 
+* Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 3 (Modulo A2)
+
 ## Convertitori di potenza a commutazione
+
+* Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 3 (Modulo A2)
 
 ## Alimentatori e stabilizzatori
 
 ## Dispositivi per la qualità dell’energia e gruppi di continuità
 
+* Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 3 (Modulo E2)
+
 ## Sistemi di generazione e trasmissione di energia
 
+* Gaetano Conte - Tecnologie e progettazione di sistemi elettrici ed elettronici Volume 3 (Modulo D)

@@ -7,15 +7,19 @@
 
 ## Campo elettrico, magnetico ed elettromagnetico
 
-### Costanti
+##### Costanti
 
 Costante dielettrica del vuoto o permittività elettrica del vuoto:
 
 $$
-\varepsilon _{0}=8,85\cdot 10^{-12}\ \mathrm {F/m}
+\varepsilon _{0}=8,85\cdot 10^{-12}\ \frac{\mathrm {F}}{\mathrm {m}}
 $$
 
-### Campo elettrico
+$$
+\mu _{0}=4\pi\cdot 10^{-7}\ \frac{\mathrm {N}}{\mathrm {A}^2}
+$$
+
+##### Campo elettrico
 
 L' intensità della forza esercitata tra due cariche puntiformi q1e q2 vale:
 
@@ -71,7 +75,7 @@ $$
 
 * Il dipolo elettrico è un sistema di 2 cariche elettriche uguali ed opposte
 
-### Campo magnetico
+##### Campo magnetico
 
 La legge di Felici afferma che la differenza tra il flusso del campo magnetico concatenato al circuito nello stato iniziale ed il flusso nello stato finale, divisa per la resistenza del circuito, è pari alla carica totale $Q(t)$ che attraversa il circuito. 
 
@@ -93,7 +97,7 @@ $$
 
 * Il ciclo di isteresi di un materiale ferromagnetico descrive la variazione del campo magnetico $\mathbf H$ all’interno del materiale in funzione del campo di induzione magnetica totale $\mathbf B$.
 
-### Campo elettromagnetico
+##### Campo elettromagnetico
 
 Equazioni di Maxwell
 
@@ -127,7 +131,7 @@ $$
 
 ## Componenti elettrici delle reti elettriche
 
-### Resistore
+##### Resistore
 
 * 1° Legge di Ohm.
 
@@ -164,7 +168,7 @@ $$
 </div>
 
 
-### Condensatore
+##### Condensatore
 
 * La carica accumulata sulle armature di un condensatore è pari a:
 
@@ -211,7 +215,7 @@ $$
 I_C = C \frac{dV_C}{dt}
 $$
 
-### Induttore
+##### Induttore
 
 L'energia immagazzinata in un induttore di induttanza $L$ vale:
 
@@ -239,18 +243,23 @@ $$
 V_L = L \frac{dI_L}{dt}
 $$
 
+* Il coefficiente di autoinduzione di un solenoide vale:
 
-### Generatori di tensione
+$$
+L = \mu_0 \cdot \frac{N^2 \cdot S}{l}
+$$
+
+##### Generatori di tensione
 
 * Due generatori di tensione non possono mai essere collegati in parallelo, perchè imporrebbe alle tensioni di essere identiche.
 
-### Generatori di corrente
+##### Generatori di corrente
 
 * Due generatori di corrente non possono mai essere collegati in serie, perchè imporrebbe alle correnti di essere identiche.
 
 ## Leggi, principi e metodi per la risoluzione delle reti elettriche in regime continuo e sinusoidale
 
-### Le leggi di Kirchoff
+##### Le leggi di Kirchoff
 
  * I° legge: la somma delle correnti entranti in un nodo di rete elettrica è uguale alla somma delle correnti uscenti. É equivalente al principio della conservazione della carica.
  * II° legge: la somma algebrica delle tensioni in maglia di una rete elettrica è uguale a zero. É una forma di conservazione dell'energia.
@@ -262,7 +271,7 @@ Per risolvere una rete elettrica con $r$ rami e $n$ nodi, si deve scrivere un si
 
 Se in una rete elettrica siano presenti più di un generatore (di corrente o di tensione) si sfrutta il principio di sovrapposizione degli effetti. Questo afferma che in una rete lineare in cui sono presenti più generatori, le correnti nei singoli rami possono essere ottenute sommando algebricamente le correnti risultanti dai singoli generatori. I generatori di tesnione esclusi sono sostiuiti da un cortocircuito, mente i generatori di corrente esclusi con dei circuiti aperti.
 
-### Partitore di tensione
+##### Partitore di tensione
 
 <div align="center">
   <img src="../../images/voltage_divider.png" alt="Partitore di tensione"/>
@@ -272,7 +281,7 @@ $$
 V_o = V_i\frac{R_2}{R1+R2}
 $$
 
-### Partitore di corrente
+##### Partitore di corrente
 
 <div align="center">
   <img src="../../images/current_divider.png" alt="Partitore di corrente"/>
@@ -283,17 +292,19 @@ I_1 = I_{in}\frac{R_2}{R1+R2}
 $$
 
 
-### Generatore equivalente di Thevenin
+##### Generatore equivalente di Thevenin
 
 Il Teorema di Thevenin afferma che è possibile sostituire una rete attiva lineare con un generatore di tensione avente come valore la tensione a vuoto della rete, e come resistenza interna serie quella vista dai due morsetti, sostituendo i generatori di tensione con dei corto circuiti ed i generatori di corrente con dei circuiti aperti.
 
 
-### Generatore equivalente di Norton
+##### Generatore equivalente di Norton
 
 Il Teorema di Norton afferma che è possibile sostituire una rete attiva lineare con un generatore di corrente avente come valore quello ottenuto cortocircuitando i morsetti, e come resistenza interna parallelo quella vista dai due morsetti, sostituendo i generatori di tensione con dei corto circuiti ed i generatori di corrente con dei circuiti aperti.
 
 
 ## Sistemi monofase e trifase
+
+* Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 2 (Modulo B)
 
 ## Bilancio energetico nelle reti elettriche
 
