@@ -8,4 +8,6 @@
 
 ## Strumenti e metodi di misura delle grandezze elettriche
 
+* Ambrosini - Telecomunicazioni (Sezione 3B)
+
 ## Sistemi automatici di misura.

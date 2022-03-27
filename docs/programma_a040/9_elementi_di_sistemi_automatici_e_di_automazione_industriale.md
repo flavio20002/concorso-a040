@@ -12,6 +12,8 @@
 
 * Fabrizio Cerri - Corso di Sistemi Automatici Volume 2 (Modulo N)
 
+* Ambrosini - Telecomunicazioni (Uda 8)
+
 ## Stabilità dei sistemi
 
 ## Sistemi di controllo analogici e digitali programmabili e non

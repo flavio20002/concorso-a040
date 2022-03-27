@@ -16,6 +16,8 @@
 
 * Fabrizio Cerri - Corso di Sistemi Automatici Volume 2 (Modulo A)
 
+* Ambrosini - Telecomunicazioni (Sezione 5A, 5B)
+
 ## Integrati LSI e MSI
 
 * Paolo Spirito - Elettronica Digitale (Capitolo 2.7)
