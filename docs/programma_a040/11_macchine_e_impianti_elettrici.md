@@ -2,6 +2,8 @@
 
 ## Conversione elettromagnetica dell’energia
 
+* Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 2 (Modulo C, D)
+
 ## Macchine elettriche statiche e rotanti.
 
 ## Sistemi di regolazione, controllo e protezione

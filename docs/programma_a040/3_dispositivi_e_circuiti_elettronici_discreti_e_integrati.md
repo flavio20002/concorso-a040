@@ -14,6 +14,8 @@
 
 ## Circuiti integrati a differente scala di integrazione (piccola, media e grande): struttura e campi di applicazione
 
+* Paolo Spirito - Elettronica Digitale (Capitolo 2.7)
+
 ## Microprocessori (struttura e interfacciamento)
 
 * Fabrizio Cerri - Corso di Sistemi Automatici Volume 2 (Modulo C)

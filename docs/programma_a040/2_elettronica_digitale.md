@@ -18,6 +18,8 @@
 
 ## Integrati LSI e MSI
 
+* Paolo Spirito - Elettronica Digitale (Capitolo 2.7)
+
 ## Memorie
 
 * Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 1 (Modulo H1)

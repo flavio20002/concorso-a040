@@ -131,6 +131,8 @@ $$
 
 ## Componenti elettrici delle reti elettriche
 
+* Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 2 (Modulo A1, A2)
+
 ##### Resistore
 
 * 1° Legge di Ohm.
@@ -259,6 +261,8 @@ $$
 
 ## Leggi, principi e metodi per la risoluzione delle reti elettriche in regime continuo e sinusoidale
 
+* Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 2 (Modulo A2, B, C, D)
+
 ##### Le leggi di Kirchoff
 
  * I° legge: la somma delle correnti entranti in un nodo di rete elettrica è uguale alla somma delle correnti uscenti. É equivalente al principio della conservazione della carica.
@@ -304,9 +308,11 @@ Il Teorema di Norton afferma che è possibile sostituire una rete attiva lineare
 
 ## Sistemi monofase e trifase
 
-* Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 2 (Modulo B)
+* Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 2 (Modulo A, B)
 
 ## Bilancio energetico nelle reti elettriche
+
+* Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 2 (Modulo A, B)
 
 * L'unità di misura della potenza reattiva è il VAR, ovvero Volt Amper Reattivi.
 
@@ -323,6 +329,8 @@ $$
 $$
 
 ## Analisi dei circuiti elettrici in regime variabile
+
+* Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 2 (Modulo C, D)
 
 * La costante di tempo di un circuito RC vale:
 
