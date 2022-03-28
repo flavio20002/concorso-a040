@@ -12,6 +12,13 @@
 
 * Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 1 (Modulo F, G)
 
+** Flip FLop **
+
+In un flip flop SR (Set Reset) a porte NAND lo stato di ingresso non valido è 0, 0.
+
+In un flip flop SR (Set Reset) a porte NOR lo stato di ingresso non valido è 1, 1.
+
+
 ## Automi a stati finiti
 
 * Fabrizio Cerri - Corso di Sistemi Automatici Volume 2 (Modulo A)

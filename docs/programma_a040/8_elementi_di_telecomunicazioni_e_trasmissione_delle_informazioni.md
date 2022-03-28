@@ -22,6 +22,8 @@
 
 * Ambrosini - Telecomunicazioni (Uda 12, 13)
 
+Il rivelatore d’inviluppo è un demodulatore AM
+
 ## Parametri di qualità
 
 ## Caratteristiche delle reti a commutazione di circuito e di pacchetto
@@ -29,6 +31,10 @@
 * Ambrosini - Telecomunicazioni (Uda 15)
 
 ## Organismi di standardizzazione, architetture e protocolli
+
+Nel modello OSI il protocollo UDP è un protocollo dello strato di trasporto senza handshake.
+
+Nel modello OSI il protocollo TCP è un protocollo dello strato di trasporto con handshake.
 
 ## Reti locali e rete globale
 

@@ -23,3 +23,16 @@
 ## Microcontrollori (struttura e linguaggi di programmazione)
 
 * Fabrizio Cerri - Corso di Sistemi Automatici Volume 2 (Modulo D)
+
+**PIC 16F84**
+
+Si ricorre alla coppia di registri specializzati TRISA e TRISB, per definire “quali linee” di I/O sono in ingresso e quali in uscita
+Lo stato logico delle linee di I/O invece viene fissato dal valore dei due registri PORTA e PORTB.
+
+**Arduino**
+
+* Per scrivere un valore analogico, si usa la funzione:
+ *analogWrite(pin, value)*. 
+
+  - pin: il numero del pin su cui scrivere
+  - value: il livello analogico 0 ÷ 5 V da esprimere in digitale 0 ÷ 255
