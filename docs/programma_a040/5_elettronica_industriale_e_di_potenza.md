@@ -4,6 +4,8 @@
 
 * Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 3 (Modulo A1)
 
+* Ambrosini - Elettronica ed Elettrotecnica Volume 2 (Uda 18)
+
 ## Raddrizzatori a frequenza di linea controllati e non
 
 * Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 3 (Modulo A2)

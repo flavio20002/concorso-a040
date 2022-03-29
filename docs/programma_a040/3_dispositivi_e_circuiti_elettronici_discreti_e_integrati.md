@@ -4,7 +4,11 @@
 
 * Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 2 (Modulo E)
 
+* Ambrosini - Elettronica ed Elettrotecnica Volume 2 (Uda 11, 13)
+
 ## Amplificatori di tensione, di corrente e di potenza: polarizzazione e risposta in ampiezza e frequenza
+
+* Ambrosini - Elettronica ed Elettrotecnica Volume 2 (Uda 12)
 
 ## Amplificatori retroazionati: proprietà e stabilità
 

@@ -19,7 +19,6 @@
 
 * Ambrosini - Telecomunicazioni (Uda 4)
 
-
 * L’uscita di una rete combinatoria dipende solo dall’ingresso mentre quella di una sequenziale dall’ingresso e dall’uscita precedente
 
 * L’uscita della porta Xor nella figura vale 1 se gli ingressi sono diversi

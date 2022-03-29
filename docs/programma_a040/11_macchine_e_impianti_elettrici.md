@@ -6,6 +6,8 @@
 
 ## Macchine elettriche statiche e rotanti.
 
+* Ambrosini - Elettronica ed Elettrotecnica Volume 2 (Uda 17)
+
 ## Sistemi di regolazione, controllo e protezione
 
 ## Schemi e tecniche di comando delle macchine elettriche
