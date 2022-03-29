@@ -217,6 +217,8 @@ $$
 I_C = C \frac{dV_C}{dt}
 $$
 
+Quindi, un condensatore fornisce una tensione a rampa se viene alimentato a corrente costante
+
 ##### Induttore
 
 L'energia immagazzinata in un induttore di induttanza $L$ vale:

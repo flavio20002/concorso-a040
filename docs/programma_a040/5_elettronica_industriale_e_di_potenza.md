@@ -14,6 +14,8 @@
 
 ## Alimentatori e stabilizzatori
 
+* nei circuiti raddrizzatori e si definisce come ripple il rapporto tra valore efficace dell’ondulazione e valore medio della tensione di uscita
+
 ## Dispositivi per la qualità dell’energia e gruppi di continuità
 
 * Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 3 (Modulo E2)

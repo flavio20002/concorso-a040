@@ -2,15 +2,17 @@
 
 ## Caratteristiche fisiche dei segnali e relative rappresentazioni
 
-* Ambrosini - Telecomunicazioni (Sezione 3A)
+* Ambrosini - Telecomunicazioni (Uda 3)
+
+* Una tensione ad onda quadra con duty cycle pari al 50% e compresa tra 0V e 10V presenta secondo il teorema di Fourier un valore medio pari a 5V e solo armoniche dispari
 
 ## Elementi di teoria dell’informazione
 
-* Ambrosini - Telecomunicazioni (Sezione 11A)
+* Ambrosini - Telecomunicazioni (Uda 11)
 
 ## Il canale di trasmissione
 
-* Ambrosini - Telecomunicazioni (Sezione 11B, 14A, 14B)
+* Ambrosini - Telecomunicazioni (Uda 11, 14)
 
 ## Interazione canale-segnale
 
