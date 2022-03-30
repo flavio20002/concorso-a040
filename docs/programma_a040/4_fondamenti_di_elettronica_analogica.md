@@ -66,6 +66,15 @@ Il diodo Zener è un tipo di diodo a giunzione p-n, il cui comportamento è dete
 | Interdizione   | Polarizzazione inversa        | Polarizzazione inversa        |
 | Saturazione   | Polarizzazione diretta        | Polarizzazione diretta        |
 
+
+**BJT in saturazione**
+
+<div align="center">
+  <img src="../../images/bjt_saturation.png" alt="Partitore di corrente"
+  width="600"/>
+</div>
+
+
 **Collettore comune**
 
 In questa configurazione l’amplificazione Vu / Vi vale circa 1
@@ -85,18 +94,34 @@ In questa configurazione l’amplificazione Vu / Vi vale circa 1
 
 * Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 2 (Modulo G)
 
-**Trigger di Schmitt**
+**Trigger di Schmitt invertente**
 
 <div align="center">
-  <img src="../../images/trigger_di_schmitt.png" alt="Resistore reale"/>
+  <img src="../../images/trigger_schmitt.png" alt="Partitore di corrente"
+  width="400"/>
 </div>
 
-L'isteresi vale:
+<div align="center">
+  <img src="../../images/trigger_schmitt_graph.png" alt="Partitore di corrente"
+  width="600"/>
+</div>
+
+
+Le soglie possono essere calcolate:
+
+$$
+V_{th(L)} = - V_{sat}\frac{R_G}{R_F+R_G}
+$$
+
+$$
+V_{th(H)} = V_{sat}\frac{R_G}{R_F+R_G}
+$$
+
+L'isteresi quindi vale:
 
 $$
 H = V_{th(H)} - V_{th(L)} = 2 V_{sat}\frac{R_G}{R_F+R_G}
 $$
-
 
 **Trigger di Schmitt non invertente con caratteristica traslata**
 

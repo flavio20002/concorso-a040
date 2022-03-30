@@ -27,6 +27,10 @@
   <img src="../../images/xor.png" alt="Partitore di corrente" width=100/>
 </div>
 
+* Un multiplexer 16-1 consente di scegliere tramite 4 ingressi di selezione uno dei 16 segnali in ingresso da trasmettere in uscita
+
+* Per pilotare un display a 7 segmenti serve un decoder BCD/7segmenti
+
 **Flip Flop**
 
 * In un flip flop SR (Set Reset) a porte NAND lo stato di ingresso non valido è 0, 0.
@@ -34,6 +38,8 @@
 * In un flip flop SR (Set Reset) a porte NOR lo stato di ingresso non valido è 1, 1.
 
 * Il flip flop JK è una rete: sequenziale sincrona
+
+* Un contatore decimale (modulo 10) si può ottenere con 4 flip flop JK in cascata con J=K=1
 
 **Multivibratori**
 
