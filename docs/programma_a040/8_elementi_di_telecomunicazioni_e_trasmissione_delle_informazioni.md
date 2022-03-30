@@ -16,6 +16,10 @@
 
 ## Interazione canale-segnale
 
+* La codifica Manchester viene utilizzata per codificare i bit da trasmettere
+
+* La codifica di Hamming viene utilizzata per rilevare e correggere gli errori di trasmissione
+
 ## Mezzi trasmissivi e relative caratteristiche
 
 * Ambrosini - Telecomunicazioni (Uda 10)
@@ -26,6 +30,8 @@
 
 Il rivelatore d’inviluppo è un demodulatore AM
 
+* Il protocollo stop and wait per canali rumorosi prevede un tempo di attesa che dipende da numero di collisioni rilevate
+
 ## Parametri di qualità
 
 ## Caratteristiche delle reti a commutazione di circuito e di pacchetto
@@ -34,11 +40,27 @@ Il rivelatore d’inviluppo è un demodulatore AM
 
 ## Organismi di standardizzazione, architetture e protocolli
 
-Nel modello OSI il protocollo UDP è un protocollo dello strato di trasporto senza handshake.
+* Nel modello OSI il protocollo UDP è un protocollo dello strato di trasporto senza handshake.
 
-Nel modello OSI il protocollo TCP è un protocollo dello strato di trasporto con handshake.
+* Nel modello OSI il protocollo TCP è un protocollo dello strato di trasporto con handshake.
+
+* Lo switch è un dispositivo tipico dello strato del livello 2 (data link)
+
+* Il MAC address è stabilito dal produttore della scheda
+
+* Con il protocollo CSMA/CD una stazione trasmittente rileva una collisione durante la trasmissione
+
+<div align="center">
+  <img src="../../images/iso_osi.png" alt="Partitore di corrente" width=400/>
+</div>
 
 ## Reti locali e rete globale
+
+* Il server DNS consente di individuare l’indirizzo IP di un sito cercato dato il suo nome
+
+* Se il primo Byte di un indirizzo IP è 11001100, possiamo dire che si tratta di un IP di classe C
+
+* L’indirizzo 135.12.6.4 fa parte di una rete di classe B
 
 ## Architettura, servizi e tendenze evolutive dei sistemi per la comunicazione in mobilità
 
