@@ -10,7 +10,6 @@
 
 ## Strumenti e metodi di misura delle grandezze elettriche
 
-
 * Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 1 (Modulo A)
 
 * Ambrosini - Telecomunicazioni (Uda 3)

@@ -12,6 +12,8 @@
 
 ## Amplificatori retroazionati: proprietà e stabilità
 
+* Ambrosini - Elettronica ed Elettrotecnica Volume 2 (Uda 12)
+
 ## Amplificatori Operazionali e loro applicazioni lineari e non.
 
 * Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 2 (Modulo G)

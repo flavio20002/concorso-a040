@@ -10,7 +10,6 @@
 
 * Fabrizio Cerri - Corso di Sistemi Automatici Volume 1 (Modulo D)
 
-
 * La funzione di trasferimento del derivatore reale presenta uno zero nell’origine e un polo diverso da zero
 
 ## Rappresentazioni grafiche delle funzioni di trasferimento nel dominio della pulsazione, diagrammi di Bode e Nyquist

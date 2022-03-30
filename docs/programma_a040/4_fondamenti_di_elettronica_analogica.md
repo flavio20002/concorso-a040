@@ -86,8 +86,11 @@ In questa configurazione l’amplificazione Vu / Vi vale circa 1
 
 ## Amplificatori di tensione, di corrente e di potenza
 
+* Ambrosini - Elettronica ed Elettrotecnica Volume 2 (Uda 12)
+
 ## Amplificatori retroazionati: proprietà e stabilità
 
+* Ambrosini - Elettronica ed Elettrotecnica Volume 2 (Uda 12)
 * Ambrosini - Telecomunicazioni (Uda 6)
 
 ## Amplificatori operazionali: applicazioni lineari e non.
