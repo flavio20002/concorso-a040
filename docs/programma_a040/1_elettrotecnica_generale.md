@@ -332,7 +332,7 @@ $$
 
 ## Analisi dei circuiti elettrici in regime variabile
 
-* Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 2 (Modulo C, D)
+* Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 2 (Modulo A, B)
 
 * La costante di tempo di un circuito RC vale:
 

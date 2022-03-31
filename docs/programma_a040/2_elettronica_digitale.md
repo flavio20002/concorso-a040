@@ -53,7 +53,7 @@
 
 ## Integrati LSI e MSI
 
-* Paolo Spirito - Elettronica Digitale (Capitolo 2.7)
+* Ambrosini - Telecomunicazioni (Uda 4)
 
 ## Memorie
 
@@ -67,3 +67,4 @@
 
 * Fabrizio Cerri - Corso di Sistemi Automatici Volume 2 (Modulo C)
 
+* Ambrosini - Telecomunicazioni (Uda 4)
