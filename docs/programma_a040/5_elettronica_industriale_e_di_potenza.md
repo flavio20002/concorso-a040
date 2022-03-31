@@ -16,6 +16,8 @@
 
 ## Alimentatori e stabilizzatori
 
+* Ambrosini - Elettronica ed Elettrotecnica Volume 2 (Uda 14)
+
 * nei circuiti raddrizzatori e si definisce come ripple il rapporto tra valore efficace dell’ondulazione e valore medio della tensione di uscita
 
 ## Dispositivi per la qualità dell’energia e gruppi di continuità

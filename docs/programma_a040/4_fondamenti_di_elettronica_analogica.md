@@ -172,9 +172,10 @@ $$
 
 * Gaetano Conte - Corso di elettrotecnica ed elettronica Volume 2 (Modulo F)
 
+* Ambrosini - Elettronica ed Elettrotecnica Volume 2 (Uda 15)
+
 ## Generatori di segnale per basse e alte frequenze
 
 * Millman - Microelettronica (Cap. 15)
-* Storey -Electronics A Systems Approach 6th Edition (Cap. 23)
 
 Per ottenere oscillatori a frequenze elevate si ricorre spesso alla struttura tipica a 3 punti come nell’oscillatore di Colpitts
