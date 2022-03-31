@@ -14,4 +14,4 @@
 
 * Ambrosini - Telecomunicazioni (Uda 3)
 
-## Sistemi automatici di misura.
+## Sistemi automatici di misura
